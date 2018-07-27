@@ -1,5 +1,5 @@
 <b># football-world-cup</b><br>
-<i>Z-score of the players as per different football metrics of World cup(1966-2018).</i>
+<i>Z-score of the players as per different football metrics in World cups(1966-2018).</i>
 
 <b> Required Module : </b><br>
     -sys<br>
