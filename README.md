@@ -4,3 +4,6 @@
 
 <b> USAGE : </b><br>
     <b><font size=3>python3 world_cup.py (csv saved file path) (path to save plot) (year) </font></b>
+    
+<b> Note : </b> <br>
+    Use '/' to give paths in windows OS.
